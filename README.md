@@ -8,4 +8,3 @@ Note: This can be ran in an IDE , as long as you have the latest Python version 
 
 Screenshot with the result: https://ibb.co/TkSW195
 
-Link to this notebook with outputs: https://drive.google.com/file/d/1TNKjunU7xmHRJCIqe8_sPX5ydn9PWS6H/view?usp=sharing
